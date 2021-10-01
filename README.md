@@ -1,2 +1,2 @@
 # predicting-Bike-sharing-patterns
-Deep Learning Nanodegree Program first project
+In this project, I built a neural network from scratch and  employed it to predict daily bike rental ridership
